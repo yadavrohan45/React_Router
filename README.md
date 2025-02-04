@@ -1,8 +1,3 @@
 # React + Vite
+React Router is a powerful library for managing navigation in React applications. It allows developers to define routes, enabling dynamic and nested views within a single-page application. React Router provides tools for handling route parameters and programmatically navigating users. This creates a seamless and responsive user experience without full page reloads.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
